@@ -1,4 +1,4 @@
-# Trcocar cor da página 
+# Trocar cor da página 
 
 ![]( ./Captura%20de%20tela%202025-01-30%20103830.png)
 
